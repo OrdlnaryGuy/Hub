@@ -1,2 +1,2 @@
 # Hub
-#Ah yes another garbage hub
+A unnamed hub. i trying to make this advance as possible.
